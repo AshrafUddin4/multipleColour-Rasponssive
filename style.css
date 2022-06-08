@@ -204,6 +204,7 @@ header ul li a{
         background-repeat: no-repeat;
         z-index:2;
         cursor: pointer;
+        filter: invert(1);
 
         /* ================ */
         /* margin-left: 700px; */
@@ -215,7 +216,7 @@ header ul li a{
         background-position: center;
         background-size: 30px;
         background-repeat: no-repeat;
-    
+        filter: invert(0);
     }
     .sci {
         right: 15px;
