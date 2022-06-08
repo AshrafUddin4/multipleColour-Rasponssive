@@ -191,10 +191,9 @@ header ul li a{
     header ul li a:hover{
         color: red;
     }
-    /* .toggelMenu {
-        font-size: 30px;
-        color: #fff;
-    } */
+    .thumb li:hover{
+        transform:translateY(-15px) rotate(360deg);
+    }
     .togglemenu{
         position:relative;
         width: 40px;
